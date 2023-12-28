@@ -1,0 +1,7 @@
+#python program to print hello world!
+#this program print Hello, World!
+print('Hello,World!')
+
+
+OUTPUT:-
+Hello,World!
